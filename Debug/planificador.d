@@ -1,0 +1,1 @@
+planificador.o: ../planificador.c
